@@ -1,3 +1,7 @@
+/* eslint-disable consistent-return */
+/* eslint-disable implicit-arrow-linebreak */
+/* eslint-disable camelcase */
+
 const router = require('express').Router();
 const {
   Product, Category, Tag, ProductTag
