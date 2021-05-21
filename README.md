@@ -15,5 +15,5 @@ It accepts basic CRUD operations
 
 This video can be downloaded and viewed:
 
-**[https://nathanhentges.github.io/ecommerce-back-end/demonstration-video.mp4](https://nathanhentges.github.io/ecommerce-back-end/demonstration-video.mp4)**.
+**[https://github.com/NathanHentges/ecommerce-back-end/blob/main/assets/demonstration-video.mp4](https://github.com/NathanHentges/ecommerce-back-end/blob/main/assets/demonstration-video.mp4)**.
 
